@@ -1,45 +1,46 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Adadakula Bhavya Shreyash</h1>
+# 👋 Hi, I'm Adadakula Shreyash
 
-<h3 align="center">🚀 MERN Stack Developer | AI Enthusiast | Full Stack Developer | B.Tech AI Student</h3>
+### MERN Stack Developer • Full Stack Web Developer • AI Enthusiast
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Artificial+Intelligence+Student;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Always+Learning+New+Technologies" />
+<p>
+Building scalable, responsive, and user-focused web applications using the MERN Stack while exploring Artificial Intelligence and modern software engineering.
 </p>
 
----
+<p>
+<a href="mailto:shreyashadadakula@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-👨‍💻 About Me
-
-🎓 B.Tech Computer Science (Artificial Intelligence) Student
-
-💻 Passionate MERN Stack Developer
-
-🤖 Interested in Artificial Intelligence & Generative AI
-
-🚀 Love building Full Stack Web Applications
-
-🌱 Currently learning Advanced MERN Stack & AI
-
-📍 Kakinada, Andhra Pradesh, India
-
----
-
-🌐 Connect With Me
-
-<p align="left">
 <a href="https://linkedin.com/in/adadakula-shreyash-b94582322">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/shreyash01-09">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:shreyashadadakula@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;Artificial+Intelligence+Student;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Always+Learning+Always+Building"/>
+
+</div>
+
+---
+
+# 💼 About Me
+
+I'm a passionate **MERN Stack Developer** and **Artificial Intelligence student** who enjoys building modern web applications that solve real-world problems.
+
+- 💻 Full Stack Web Development
+- 🚀 MERN Stack Specialist
+- 🤖 Artificial Intelligence Enthusiast
+- 🌱 Learning Advanced MERN, System Design & Generative AI
+- 💼 Looking for Software Development & Web Development Opportunities
 
 ---
 
@@ -47,95 +48,140 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,python,java,git,github,vscode,tailwind,threejs,tensorflow"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,git,github,tailwind,vscode,threejs,firebase,tensorflow"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 🏆 Featured Projects
+
+## 🤖 AI Interview Simulator
+
+> AI-powered mock interview platform built with React, Node.js, MongoDB, and Generative AI.
+
+**Features**
+
+- Resume Analysis
+- Technical & HR Interviews
+- AI Feedback
+- Authentication
+- Dashboard
+
+---
+
+## 🚗 Driver Drowsiness Detection
+
+> Computer Vision application using Python, OpenCV & MediaPipe.
+
+**Features**
+
+- Real-time Eye Detection
+- Fatigue Detection
+- Alert System
+- Road Safety
+
+---
+
+## 🌐 Full Stack MERN Applications
+
+> Modern responsive web applications using the MERN Stack.
+
+**Features**
+
+- JWT Authentication
+- REST APIs
+- MongoDB Database
+- Responsive UI
+- CRUD Operations
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyash01-09&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyash01-09&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash01-09&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=shreyash01-09&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-## 💻 Most Used Languages
+# 💻 Most Used Languages
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash01-09&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash01-09&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shreyash01-09&theme=algolia&margin-w=15&margin-h=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyash01-09&theme=github-dark"/>
 
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🏅 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyash01-09&theme=react-dark"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shreyash01-09&theme=algolia&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🎓 Certifications
+
+- NPTEL – Introduction to Quantum Computing
+- National Level Hackathon Merit Certificate
+- SRUJANA 2026 Hackathon Participant
+
+---
+
+# 🏅 Achievements
+
+- 🥈 2nd Prize – Vizag Tri-Mobility Challenge
+- 🏆 National Level Hackathon Merit Award
+- 🎓 B.Tech Computer Science (Artificial Intelligence)
+- 💻 Web Development Intern
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/shreyash01-09/shreyash01-09/output/github-contribution-grid-snake.svg" />
+<a href="mailto:shreyashadadakula@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/adadakula-shreyash-b94582322">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shreyash01-09">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
 
-⭐ AI Interview Simulator
+<img src="https://komarev.com/ghpvc/?username=shreyash01-09&style=for-the-badge&color=0e75b6"/>
 
-⭐ Driver Drowsiness Detection System
+### ⭐ Thanks for visiting my profile!
 
-⭐ MERN Stack Web Applications
+*"Code. Learn. Build. Repeat."*
 
-⭐ AI Powered Projects
-
----
-
-## 📫 Contact
-
-📧 Email: **shreyashadadakula@gmail.com**
-
-💼 LinkedIn:
-https://linkedin.com/in/adadakula-shreyash-b94582322
-
-🐙 GitHub:
-https://github.com/shreyash01-09
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=shreyash01-09&label=Profile+Views&color=00F5D4&style=for-the-badge"/>
-
-</p>
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
-
+</div>
