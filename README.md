@@ -1,103 +1,99 @@
-<div align="center">
+# 👋 Hi, I'm **Adadakula Shreyash**
 
-# 👋 Hi, I'm Adadakula Shreyash
+<h3 align="center">🚀 MERN Stack Developer | AI Enthusiast | Full Stack Developer</h3>
 
-### MERN Stack Developer • Full Stack Web Developer • AI Enthusiast
-
-<p>
-Building scalable, responsive, and user-focused web applications using the MERN Stack while exploring Artificial Intelligence and modern software engineering.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Artificial+Intelligence+Student;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning+New+Technologies"/>
 </p>
 
-<p>
-<a href="mailto:shreyashadadakula@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/adadakula-shreyash-b94582322">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/shreyash01-09">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<p align="center">
+<a href="mailto:shreyashadadakula@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/adadakula-shreyash-b94582322"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/shreyash01-09"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://leetcode.com/u/Shreyash-9/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
 </p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;Artificial+Intelligence+Student;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Always+Learning+Always+Building"/>
-
-</div>
 
 ---
 
 # 💼 About Me
 
-I'm a passionate **MERN Stack Developer** and **Artificial Intelligence student** who enjoys building modern web applications that solve real-world problems.
+🚀 Passionate **MERN Stack Developer** and **Artificial Intelligence** student who enjoys building scalable full-stack applications and AI-powered solutions.
 
-- 💻 Full Stack Web Development
-- 🚀 MERN Stack Specialist
-- 🤖 Artificial Intelligence Enthusiast
-- 🌱 Learning Advanced MERN, System Design & Generative AI
-- 💼 Looking for Software Development & Web Development Opportunities
+* 💻 MERN Stack Developer
+* 🤖 AI & Machine Learning Enthusiast
+* 🌱 Currently Learning **Advanced MERN**, **System Design** & **Generative AI**
+* 🎯 Looking for **Software Development Internships**
+* ⚡ Love solving real-world problems with technology
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
-<p align="center">
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,git,github,tailwind,vscode,threejs,firebase,tensorflow"/>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,threejs"/>
+</p>
 
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase"/>
 </p>
 
 ---
 
-# 🏆 Featured Projects
+# 🚀 Featured Projects
 
 ## 🤖 AI Interview Simulator
 
-> AI-powered mock interview platform built with React, Node.js, MongoDB, and Generative AI.
+> AI-powered interview platform with resume analysis, technical interviews, HR interviews, authentication, and performance analytics.
 
-**Features**
+**Tech Stack**
 
-- Resume Analysis
-- Technical & HR Interviews
-- AI Feedback
-- Authentication
-- Dashboard
+React • Node.js • Express • MongoDB • Generative AI
 
 ---
 
-## 🚗 Driver Drowsiness Detection
+## 🚗 Driver Drowsiness Detection System
 
-> Computer Vision application using Python, OpenCV & MediaPipe.
+> Computer vision project that detects driver fatigue using facial landmark detection and real-time alerts.
 
-**Features**
+**Tech Stack**
 
-- Real-time Eye Detection
-- Fatigue Detection
-- Alert System
-- Road Safety
+Python • OpenCV • MediaPipe
 
 ---
 
-## 🌐 Full Stack MERN Applications
+## 🌐 MERN Stack Projects
 
-> Modern responsive web applications using the MERN Stack.
-
-**Features**
-
-- JWT Authentication
-- REST APIs
-- MongoDB Database
-- Responsive UI
-- CRUD Operations
+* Authentication
+* REST APIs
+* JWT
+* MongoDB
+* Responsive UI
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -129,39 +125,44 @@ I'm a passionate **MERN Stack Developer** and **Artificial Intelligence student*
 
 ---
 
-# 🏅 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shreyash01-09&theme=algolia&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shreyash01-09&theme=algolia&no-frame=true&margin-w=10"/>
 
 </p>
 
 ---
 
-# 🎓 Certifications
+# 🎓 Education
 
-- NPTEL – Introduction to Quantum Computing
-- National Level Hackathon Merit Certificate
-- SRUJANA 2026 Hackathon Participant
+🎓 **B.Tech – Computer Science (Artificial Intelligence)**
+📍 Pragati Engineering College
 
 ---
 
 # 🏅 Achievements
 
-- 🥈 2nd Prize – Vizag Tri-Mobility Challenge
-- 🏆 National Level Hackathon Merit Award
-- 🎓 B.Tech Computer Science (Artificial Intelligence)
-- 💻 Web Development Intern
+* 🥈 2nd Prize – Vizag Tri-Mobility Challenge
+* 🏆 National Level Hackathon Merit Certificate
+* 🎖️ SRUJANA 2026 Hackathon Participant
 
 ---
 
-# 📫 Connect With Me
+# 📜 Certifications
+
+* NPTEL – Introduction to Quantum Computing
+* National Level Hackathon Merit Certificate
+
+---
+
+# 📫 Let's Connect
 
 <p align="center">
 
 <a href="mailto:shreyashadadakula@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/adadakula-shreyash-b94582322">
@@ -176,12 +177,16 @@ I'm a passionate **MERN Stack Developer** and **Artificial Intelligence student*
 
 ---
 
-<div align="center">
+<p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=shreyash01-09&style=for-the-badge&color=0e75b6"/>
 
-### ⭐ Thanks for visiting my profile!
+</p>
 
-*"Code. Learn. Build. Repeat."*
+<div align="center">
+
+### ⭐ *"Code. Learn. Build. Repeat."*
+
+**Thanks for visiting my GitHub profile! 🚀**
 
 </div>
